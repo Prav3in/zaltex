@@ -36,15 +36,15 @@ import {
 import { SiteConfig, Project, Experience, SkillCategory, Testimonial, Service, SocialLink } from './types'
 
 export const siteConfig: SiteConfig = {
-  name: "ISP Agency",
+  name: "Zaltex",
   description: "Premium web design & development agency focused on modern eCommerce experiences. We transform outdated online stores into conversion-optimized, visually stunning platforms.",
-  url: "https://zaltex.agency",
+  url: "https://zaltex.online",
   author: {
-    name: "Zaltex Agency",
-    email: "hello@zaltex.agency",
-    twitter: "@zaltexagency",
-    linkedin: "zaltex-agency",
-    github: "zaltex-agency"
+    name: "Zaltex",
+    email: "hello@zaltex.online",
+    twitter: "@zaltex",
+    linkedin: "zaltex",
+    github: "zaltex"
   },
   keywords: [
     "eCommerce Design",
