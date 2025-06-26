@@ -5,7 +5,8 @@
 
 # next.js
 /.next/
-/out/
+# Remove /out/ from gitignore for GitHub Pages deployment
+# /out/
 
 # production
 /build
